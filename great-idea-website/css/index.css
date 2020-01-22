@@ -64,3 +64,125 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+*{
+    outline: 1px solid red;
+    
+}
+body{
+    width: 80%;
+    margin: auto;
+}
+.navigation{
+    text-align: center;
+}
+.navigation nav{
+    display: inline-block;
+}
+.navigation nav ul li{
+    display: inline-block;
+    margin-right: 85px;
+}
+.navigation nav a{
+    text-decoration: none;
+    color: gray;
+}
+.navigation img{
+    
+}
+/* section header  */
+.hero h1{
+    font-size: 100px;
+}
+.hero {
+    display: flex;
+    text-align: center;
+}
+.tittle{
+    padding: 40px 80px;
+    
+}
+.hero img{
+    padding: 20px 0 20px 100px;
+}
+/* section text */
+
+.text div{
+    position: absolute;
+    display: inline-block;
+}
+.middle-img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
